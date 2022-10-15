@@ -1,3 +1,2 @@
-# sprucians-dot-com
-Source code for (future) sprucians.com
-TODO: Write README, actually develop and design stuff.
+# sprucians.com
+Source code for legacy sprucians.com v2, which is currently hosted version.
